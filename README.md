@@ -1,0 +1,2 @@
+# Solipsisms
+Ergo Sum
